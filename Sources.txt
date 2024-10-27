@@ -1,0 +1,15 @@
+StyleGAN3-T
+    https://arxiv.org/pdf/2301.09515.pdf
+
+    https://www.youtube.com/watch?v=m3LKnwaJyMs
+
+ProGAN
+    https://arxiv.org/abs/1710.10196
+
+    Test Cases: https://github.com/aladdinpersson/Machine-Learning-Collection/tree/master/ML_tests
+
+StyleGAN2-ada
+    https://github.com/NVlabs/stylegan2-ada-pytorch
+
+WGAN-GP
+    https://arxiv.org/abs/1704.00028
