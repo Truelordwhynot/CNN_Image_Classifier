@@ -1,0 +1,18 @@
+Dependencies:
+    pip install pytorch
+    pip install numpy
+    pip install pandas
+    pip install sklearn
+    pip install pathlib
+    brew install cmake
+    wget http://dlib.net/files/shape_predictor_68_face_landmarks.dat.bz2
+        bunzip2 shape_predictor_68_face_landmarks.dat.bz2
+    pip install dlib opencv-python
+    pip install dnnlib
+    wget https://nvlabs-fi-cdn.nvidia.com/stylegan2-ada-pytorch/pretrained/ffhq.pkl -O pretrained_stylegan2_ffhq.pt
+
+Path to env:
+    cd/Documents/AI_ML/CNN_Image_Classifier
+    source venv_cnn/bin/activate
+    
+    jupyter notebook
